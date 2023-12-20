@@ -1,0 +1,8 @@
+# VS Code
+.vscode/
+
+# Composer
+tools/vendor/
+
+# PHP CS Fixer
+tools/.php-cs-fixer.cache

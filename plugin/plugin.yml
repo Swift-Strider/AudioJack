@@ -1,0 +1,10 @@
+name: AudioJack
+main: DiamondStrider1\AudioJack\AudioJackPlugin
+src-namespace-prefix: DiamondStrider1\AudioJack
+version: 0.0.1
+api: 5.0.0
+
+author: DiamondStrider1
+description: Play tunes in-game for all your friends!
+website: https://github.com/Swift-Strider/AudioJack
+load: POSTWORLD
